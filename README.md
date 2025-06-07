@@ -1,2 +1,2 @@
-# Teor-as
+# Teorias
 teorias-prueba1
